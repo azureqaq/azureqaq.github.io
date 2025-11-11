@@ -2,10 +2,11 @@
 
 <ul>
     <li>
-        Github Repo: <a href="https://github.com/azureqaq">3moredays</a>
+        OpenPGP key:
+        <code>BFD4 B724 4D9A 51FC FEF4  98CB 7D26 D9B2 4722 CBA0</code>
     </li>
     <li>
-        Email: <a href="mailto:azureqaq@gmail.com">azureqaq@gmali.com</a>
+        Download: <a href="https://github.com/azureqaq.gpg">azure.gpg</a>
     </li>
 </ul>
 
